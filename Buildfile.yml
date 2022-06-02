@@ -1,1 +1,3 @@
+version: 0.2
+
 build: mvn assembly:assembly -DdescriptorId=jar-with-dependencies
